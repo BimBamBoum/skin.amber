@@ -22,6 +22,14 @@
       <file>Cursor.wav</file>
     </action>    
     <action>
+      <name>left</name>
+      <file>Cursor.wav</file>
+    </action>
+    <action>
+      <name>right</name>
+      <file>Cursor.wav</file>
+    </action>    
+    <action>
       <name>screenshot</name>
       <file>Shutter.wav</file>
     </action>
