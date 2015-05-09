@@ -27,7 +27,7 @@
         <label>$VAR[GlobalHeadings]</label>
       </control>
       <control type="label">
-        <posx>50r</posx>
+        <posx>20r</posx>
         <posy>0</posy>
         <width>500</width>
         <height>40</height>
@@ -69,13 +69,14 @@
             <include>SquareThumb</include>
           </control>
           <control type="label">
-            <posx>180</posx>
+            <posx>36</posx>
             <posy>330</posy>
-            <width>300</width>
+            <width>288</width>
             <height>45</height>
             <align>center</align>
             <scroll>false</scroll>
-			<label>$INFO[ListItem.Label]</label>
+            <font>ListDetails</font>
+            <label>$INFO[ListItem.Label]</label>
           </control>
         </itemlayout>
         <focusedlayout height="420" width="360">
@@ -94,11 +95,12 @@
             <include>SquareThumb</include>
           </control>
           <control type="label">
-            <posx>180</posx>
+            <posx>36</posx>
             <posy>330</posy>
-            <width>300</width>
+            <width>288</width>
             <height>45</height>
-            <textcolor>Orange</textcolor>
+            <textcolor>Highlight</textcolor>
+            <font>ListDetails</font>
             <align>center</align>
             <label>$INFO[ListItem.Label]</label>
           </control>

@@ -1,3 +1,33 @@
+2.0.13
+Plexbmc fixes, add license/forum/source to addon.xml
+
+2.0.12
+Add Live-TV OSD and add "Launch" button to DialogAddonInfo
+
+2.0.11
+Fix addon.xml default setting
+
+2.0.10
+Fix add-on browser for Helix
+
+2.0.9
+Remove skin debug info
+
+2.0.8
+Fix label in settings for custom background images
+
+2.0.7
+More Helix Cosmectics
+
+2.0.6
+More Fixes for Helix
+
+2.0.5
+Fix Favourites Text Position
+
+2.0.4
+Updated language files from Transifex
+
 1.6.1
 Fix opening add ons on Android
 Add possibility to define custom entry point for TV Shows

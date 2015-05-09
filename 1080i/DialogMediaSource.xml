@@ -27,7 +27,7 @@
         <posy>3</posy>
         <width>1010</width>
         <height>40</height>
-        <textcolor>Orange</textcolor>
+        <textcolor>Highlight</textcolor>
         <label>$LOCALIZE[1021]</label>
       </control>
       <control type="list" id="10" description="Path list">
@@ -78,7 +78,7 @@
         <height>40</height>
         <label>$LOCALIZE[1022]</label>
       </control>
-      <control type="button" id="12" description="Path Buttons">
+      <control type="edit" id="12" description="Path Buttons">
         <posx>27</posx>
         <posy>386</posy>
         <width>980</width>
@@ -89,8 +89,8 @@
         <texturenofocus>-</texturenofocus>
         <label>-</label>
         <onup>10</onup>
-        <onleft>19</onleft>
-        <onright>19</onright>
+        <onleft>18</onleft>
+        <onright>18</onright>
         <ondown>10</ondown>
       </control>
       <control type="image">

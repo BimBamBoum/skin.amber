@@ -1,25 +1,20 @@
-# XBMC Media Center language file
+# Kodi Media Center language file
 # Addon Name: Amber
 # Addon id: skin.amber
 # Addon Provider: Pecinko
-# Translators:
-# webjib, 2013
-# dekani, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Skins\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2014-01-08 22:29+0100\n"
-"Last-Translator: dekani\n"
-"Language-Team: French (http://www.transifex.com/projects/p/xbmc-skins/"
-"language/fr/)\n"
-"Language: fr\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: French (http://www.transifex.com/projects/p/xbmc-skins/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 1.5.7\n"
 
 msgctxt "#31000"
 msgid "Picture Channels"
@@ -50,16 +45,16 @@ msgid "Shared"
 msgstr "Partagé"
 
 msgctxt "#31007"
-msgid "PleXBMC settings"
-msgstr "Paramètres PleXBMC"
+msgid "PleKodi settings"
+msgstr "Paramètres PleKodi"
 
 msgctxt "#31008"
 msgid "Go Plex"
 msgstr "Aller vers Plex"
 
 msgctxt "#31009"
-msgid "Go XBMC"
-msgstr "Aller vers XBMC"
+msgid "Go Kodi"
+msgstr "Aller vers Kodi"
 
 msgctxt "#31010"
 msgid "Queue"
@@ -114,8 +109,8 @@ msgid "Multi Image"
 msgstr "Image Multiple"
 
 msgctxt "#31115"
-msgid "Start music playlist on XBMC load"
-msgstr "Démarrer la playliste musicale au démarrage de XBMC"
+msgid "Start music playlist on Kodi load"
+msgstr "Démarrer la playliste musicale au démarrage de Kodi"
 
 msgctxt "#31116"
 msgid "Startup playlist"
@@ -197,6 +192,10 @@ msgctxt "#31392"
 msgid "(3/4) Arial based"
 msgstr "(3/4) Basé sur Arial"
 
+msgctxt "#31499"
+msgid "All TV Shows"
+msgstr "Toutes les Séries TV"
+
 msgctxt "#31500"
 msgid "Live TV"
 msgstr "TV En Direct"
@@ -249,7 +248,6 @@ msgctxt "#31904"
 msgid "10 Day Forecast"
 msgstr "Prévisions sur 10 jours"
 
-#. "S" Season
 msgctxt "#31954"
 msgid "S"
 msgstr "S"
@@ -266,7 +264,6 @@ msgctxt "#31957"
 msgid "Hide Update library button from home submenu"
 msgstr "Cacher Actualiser la médiathèque dans le sous-menu Accueil"
 
-#. view label
 msgctxt "#31958"
 msgid "Big Panel"
 msgstr "Grand panneau"
@@ -283,12 +280,10 @@ msgctxt "#31961"
 msgid "Recently added"
 msgstr "Récemment ajouté"
 
-#. view label
 msgctxt "#31962"
 msgid "Low List"
 msgstr "Petite liste"
 
-#. view label
 msgctxt "#31963"
 msgid "Panel"
 msgstr "Panneau"
@@ -297,7 +292,6 @@ msgctxt "#31964"
 msgid "Configure shelf items"
 msgstr "Configurer les objets de l'étagère"
 
-#. view label
 msgctxt "#31965"
 msgid "Banner List"
 msgstr "Bannière"
@@ -330,7 +324,6 @@ msgctxt "#31972"
 msgid "Clips"
 msgstr "Clips"
 
-#. "E" Episode
 msgctxt "#31973"
 msgid "E"
 msgstr "E"
@@ -368,16 +361,8 @@ msgid "Hide watched marks"
 msgstr "Masquer les indications 'Déjà vu'"
 
 msgctxt "#31982"
-msgid ""
-"Shelf items populate more slowly on some systems. By default, skin waits for "
-"them to be ready and presents Home screen afterwards.[CR][CR]This option "
-"skips this step and presents Home page immediately. Shelf items will appear "
-"with a delay, depending on a speed of your system."
-msgstr ""
-"L'étagère se remplit moins vite sur certains systèmes. Par défaut, le thème "
-"attend et affiche l'écran d'Accueil après. [CR][CR]Cette option saute cette "
-"étape et affiche l'Accueil immédiatement. Les objets de l'étagère "
-"apparaitront avec un délai, dépendant de la vitesse de votre système."
+msgid "Shelf items populate more slowly on some systems. By default, skin waits for them to be ready and presents Home screen afterwards.[CR][CR]This option skips this step and presents Home page immediately. Shelf items will appear with a delay, depending on a speed of your system."
+msgstr "L'étagère se remplit moins vite sur certains systèmes. Par défaut, le thème attend et affiche l'écran d'Accueil après. [CR][CR]Cette option saute cette étape et affiche l'Accueil immédiatement. Les objets de l'étagère apparaitront plus tard, en fonction de la vitesse de votre système."
 
 msgctxt "#31983"
 msgid "Choose from menu"
@@ -434,12 +419,3 @@ msgstr "Disposition Accueil"
 msgctxt "#31996"
 msgid "Holiday snowfall theme"
 msgstr "Thème de vacances enneigé"
-
-#~ msgctxt "Addon Description"
-#~ msgid ""
-#~ "No bloatware, just your media with easy to navigate interface.[CR]Uses "
-#~ "some textures from Mediastream and Aeon skin."
-#~ msgstr ""
-#~ "Pas d'utilisation excessive des ressources, juste vos médias avec une "
-#~ "interface facile à utiliser.[CR]Utilise quelques textures provenant des "
-#~ "thèmes Mediastream et Aeon."

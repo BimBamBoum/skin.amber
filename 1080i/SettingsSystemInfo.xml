@@ -22,7 +22,7 @@
         <height>50</height>
         <label>$LOCALIZE[130]</label>
         <align>center</align>
-        <textcolor>Orange</textcolor>
+        <textcolor>Highlight</textcolor>
       </control>
       <control type="group">
         <posy>60</posy>
@@ -75,7 +75,7 @@
           <height>900</height>
           <itemgap>9</itemgap>
           <control type="label" id="52">
-            <description>XBMC XBE BUILD Version</description>
+            <description>KODI XBE BUILD Version</description>
             <width>1420</width>
             <textcolor>Grey3</textcolor>
           </control>

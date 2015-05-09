@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <window>
   <defaultcontrol always="true">50</defaultcontrol>
-  <include>OpenClose</include>
   <controls>
     <include>Fanart_Art</include>
-    <control type="group">
+    <control type="group" description="Content">
       <posy>25</posy>
-      <control type="image">
+      <include>OpenClose</include>
+			<control type="image">
         <posx>36</posx>
         <posy>35</posy>
         <width>1849</width>
@@ -19,7 +19,7 @@
         <width>820</width>
         <align>center</align>
         <label>$LOCALIZE[10522]</label>
-        <textcolor>Orange</textcolor>
+        <textcolor>Highlight</textcolor>
       </control>
       <control type="group">
         <control type="group">
@@ -123,36 +123,36 @@
             <scrolltime>200</scrolltime>
             <control type="radiobutton" id="20" description="shuffle">
               <font>ListDetails</font>
-              <focusedcolor>Orange</focusedcolor>
+              <focusedcolor>Highlight</focusedcolor>
               <width>330</width>
               <label>$LOCALIZE[191]</label>
             </control>
             <control type="button" id="21" description="save">
               <font>ListDetails</font>
-              <focusedcolor>Orange</focusedcolor>
+              <focusedcolor>Highlight</focusedcolor>
               <width>330</width>
               <label>$LOCALIZE[190]</label>
             </control>
             <control type="button" id="22" description="clear">
               <font>ListDetails</font>
-              <focusedcolor>Orange</focusedcolor>
+              <focusedcolor>Highlight</focusedcolor>
               <width>330</width>
               <label>$LOCALIZE[192]</label>
             </control>
             <control type="button" id="26" description="repeat">
               <font>ListDetails</font>
-              <focusedcolor>Orange</focusedcolor>
+              <focusedcolor>Highlight</focusedcolor>
               <width>330</width>
               <label>$LOCALIZE[486]</label>
             </control>
             <control type="button" id="3" description="sort method">
               <width>330</width>
-              <focusedcolor>Orange</focusedcolor>
+              <focusedcolor>Highlight</focusedcolor>
             </control>
             <control type="togglebutton" id="4" description="Sort direction">
               <font>ListDetails</font>
               <width>330</width>
-              <focusedcolor>Orange</focusedcolor>
+              <focusedcolor>Highlight</focusedcolor>
               <label>$LOCALIZE[21429]:  $LOCALIZE[21430]</label>
               <altlabel>$LOCALIZE[21429]:  $LOCALIZE[21431]</altlabel>
             </control>

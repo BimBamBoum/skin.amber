@@ -18,7 +18,7 @@
         <posy>40</posy>
         <height>40</height>
         <width>960</width>
-        <textcolor>Orange</textcolor>
+        <textcolor>Highlight</textcolor>
         <align>center</align>
         <font>-</font>
       </control>
@@ -27,7 +27,7 @@
         <posy>40</posy>
         <width>960</width>
         <height>40</height>
-        <textcolor>Orange</textcolor>
+        <textcolor>Highlight</textcolor>
         <align>center</align>
         <label>$INFO[Control.GetLabel(1)]$INFO[System.Progressbar,  ,%]</label>
       </control>
@@ -35,7 +35,7 @@
         <posx>51</posx>
         <posy>100</posy>
         <width>960</width>
-        <height>96</height>
+        <height>99</height>
         <align>center</align>
         <font>ListDetails</font>
         <autoscroll time="3000" delay="4000" repeat="5000">true</autoscroll>
